@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>shhh298.jpg</filename>
+	<size>
+		<width>658</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea_river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>257</ymin>
+			<xmax>401</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sea_river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>262</ymin>
+			<xmax>648</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sky_cloud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>58</ymin>
+			<xmax>643</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>building185.jpg</filename>
+	<size>
+		<width>500</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea_river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>284</ymin>
+			<xmax>468</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

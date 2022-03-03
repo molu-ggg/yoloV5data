@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>shhh248.jpg</filename>
+	<size>
+		<width>553</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea_river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>177</ymin>
+			<xmax>526</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mountain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>71</ymin>
+			<xmax>413</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mountain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>226</ymin>
+			<xmax>147</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

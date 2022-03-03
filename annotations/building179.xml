@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>building179.jpg</filename>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mountain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>108</ymin>
+			<xmax>255</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

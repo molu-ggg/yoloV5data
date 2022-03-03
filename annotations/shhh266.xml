@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>shhh266.jpg</filename>
+	<size>
+		<width>888</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sky_cloud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>21</ymin>
+			<xmax>284</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sea_river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>236</ymin>
+			<xmax>854</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
